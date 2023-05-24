@@ -1,5 +1,25 @@
 # Changelog
 
+## [5.4.1](https://github.com/markdown-confluence/markdown-confluence/compare/obsidian-confluence-root-v5.4.0...obsidian-confluence-root-v5.4.1) (2023-05-24)
+
+
+### Bug Fixes
+
+* yargs is a dep of lib not cli ([aca0a8b](https://github.com/markdown-confluence/markdown-confluence/commit/aca0a8bd259703850b6694c9f1bec01ac7d8205f))
+
+
+### Dependencies
+
+* **deps:** bump @atlaskit/adf-schema from 25.6.2 to 25.6.4 ([fa96d3d](https://github.com/markdown-confluence/markdown-confluence/commit/fa96d3da4605f506c99af4d9165c5c5188569e49))
+* **deps:** bump @atlaskit/editor-common from 72.9.0 to 74.0.1 ([769f692](https://github.com/markdown-confluence/markdown-confluence/commit/769f6920c6982d9b094ab07eeeaa3f9ad2fbd427))
+* **deps:** bump @atlaskit/editor-json-transformer from 8.8.4 to 8.9.1 ([cc6b4a9](https://github.com/markdown-confluence/markdown-confluence/commit/cc6b4a91881024b224d79bcd8f1082c8b4c681d0))
+* **deps:** bump docker/build-push-action ([a3274e8](https://github.com/markdown-confluence/markdown-confluence/commit/a3274e8596afe1a4bd7473bf01da29fcf27ba6c0))
+* **deps:** bump glob from 10.2.2 to 10.2.4 ([94bbf5b](https://github.com/markdown-confluence/markdown-confluence/commit/94bbf5bb29d9f1d2e0b950b5e18a0f8566122e6f))
+* **deps:** bump puppeteer from 20.1.2 to 20.3.0 ([37c8524](https://github.com/markdown-confluence/markdown-confluence/commit/37c85241a0d0a134cb341daf99810d9895891a90))
+* **deps:** bump puppeteer in /packages/mermaid-puppeteer-renderer ([146597b](https://github.com/markdown-confluence/markdown-confluence/commit/146597bd1fc69cf08ac7fe883ea9967415ce8081))
+* **deps:** bump puppeteer/puppeteer in /packages/cli ([6a6fc35](https://github.com/markdown-confluence/markdown-confluence/commit/6a6fc35a119c98ef6b17990b730ec2a0dc71485f))
+* **deps:** bump puppeteer/puppeteer in /packages/cli ([ccb7cc0](https://github.com/markdown-confluence/markdown-confluence/commit/ccb7cc030be9816a4d61b67288fa70d948003e49))
+
 ## [5.4.0](https://github.com/markdown-confluence/markdown-confluence/compare/obsidian-confluence-root-v5.3.0...obsidian-confluence-root-v5.4.0) (2023-05-12)
 
 

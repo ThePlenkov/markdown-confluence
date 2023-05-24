@@ -1,5 +1,20 @@
 # Changelog
 
+## [5.4.1](https://github.com/markdown-confluence/markdown-confluence/compare/@markdown-confluence/lib-v5.4.0...@markdown-confluence/lib-v5.4.1) (2023-05-24)
+
+
+### Bug Fixes
+
+* yargs is a dep of lib not cli ([aca0a8b](https://github.com/markdown-confluence/markdown-confluence/commit/aca0a8bd259703850b6694c9f1bec01ac7d8205f))
+
+
+### Dependencies
+
+* **deps:** bump @atlaskit/adf-schema from 25.6.2 to 25.6.4 ([fa96d3d](https://github.com/markdown-confluence/markdown-confluence/commit/fa96d3da4605f506c99af4d9165c5c5188569e49))
+* **deps:** bump @atlaskit/editor-common from 72.9.0 to 74.0.1 ([769f692](https://github.com/markdown-confluence/markdown-confluence/commit/769f6920c6982d9b094ab07eeeaa3f9ad2fbd427))
+* **deps:** bump @atlaskit/editor-json-transformer from 8.8.4 to 8.9.1 ([cc6b4a9](https://github.com/markdown-confluence/markdown-confluence/commit/cc6b4a91881024b224d79bcd8f1082c8b4c681d0))
+* **deps:** bump glob from 10.2.2 to 10.2.4 ([94bbf5b](https://github.com/markdown-confluence/markdown-confluence/commit/94bbf5bb29d9f1d2e0b950b5e18a0f8566122e6f))
+
 ## [5.4.0](https://github.com/markdown-confluence/markdown-confluence/compare/@markdown-confluence/lib-v5.3.0...@markdown-confluence/lib-v5.4.0) (2023-05-12)
 
 
